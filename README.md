@@ -1,2 +1,2 @@
 # CampaniaVaccini
-an old project i made during pandemic
+This is an old project i made during pandemic while i was bored :)
